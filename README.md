@@ -1,6 +1,7 @@
 # No-code Dynamic Text Prototype
 
 This prototype explores a simpler alternative to expression-based binding such as `{{input.value}}`.
+https://lighthearted-pavlova-32c2b3.netlify.app
 
 ## Idea
 
